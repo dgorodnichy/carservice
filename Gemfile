@@ -13,7 +13,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'turbolinks', '~> 5'
 gem 'devise'
 gem 'draper'
-gem "slim-rails"
+gem "haml-rails"
 
 group :development, :test do
   gem 'pry', require: false
